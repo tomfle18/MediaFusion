@@ -331,5 +331,14 @@
 	  "rugby": "https://www.sport-video.org.ua/rugby.html",
 	  "other_sports": "https://www.sport-video.org.ua/other.html"
 	}
-  }
+  },
+  "scrapers": [
+    {
+      "name": "polskie_torrenty",
+      "language": "pl",
+      "type": "public",
+      "interval": 21600,
+      "enabled": true
+    }
+  ]
 }
